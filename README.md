@@ -7,3 +7,5 @@ Blog mahasiswa berisi rangkuman materi-materi yang pernah dibagikan selama prose
 File kurang lengkap? Silakan ditambahkan dengan menuju tautan di bawah ini. Kredit akan dicantumkan.
 
 [Unggah materi](https://www.dropbox.com/request/IN30GCXxeSGdyoVFfJ5d)
+
+![Image](http://25.media.tumblr.com/cce030580eb85f0592d3741ea19cee21/tumblr_mw82km61sp1rpike2o1_500.gif)
