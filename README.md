@@ -17,5 +17,5 @@ File kurang lengkap? Silakan ditambahkan dengan menuju tautan di bawah ini. Kred
 <br>
 <br>
 <p align="center">
-  <img src"/images/things-that-bounce-thursday-18.gif" />
+  <img src="images/things-that-bounce-thursday-18.gif" />
 </p>
