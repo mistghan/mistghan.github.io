@@ -12,3 +12,9 @@ Blog mahasiswa berisi rangkuman materi-materi yang pernah dibagikan selama prose
 File kurang lengkap? Silakan ditambahkan dengan menuju tautan di bawah ini. Kredit akan dicantumkan.
 
 [Unggah materi](https://www.dropbox.com/request/IN30GCXxeSGdyoVFfJ5d)
+<br>
+<br>
+<p align="center">
+<script src="//api.find-ip.net/widget.js?width=680&bg=black&textcol=white&region=0&city=0&language=0&browser=0&system=0&"></script>
+<div class="findiplink">Powered by <a href="http://www.find-ip.net/" target="_blank">Find-IP.net</a></div>
+</p>
