@@ -6,7 +6,9 @@ Blog mahasiswa berisi rangkuman materi-materi yang pernah dibagikan selama prose
 <br>
 <br>
 <br>
-<p align="center"><img src="http://25.media.tumblr.com/cce030580eb85f0592d3741ea19cee21/tumblr_mw82km61sp1rpike2o1_500.gif" width="400" /></p>
+<p align="center">
+  <img src="http://25.media.tumblr.com/cce030580eb85f0592d3741ea19cee21/tumblr_mw82km61sp1rpike2o1_500.gif" width="400" />
+</p>
 <br>
 <br>
 File kurang lengkap? Silakan ditambahkan dengan menuju tautan di bawah ini. Kredit akan dicantumkan.
@@ -15,6 +17,5 @@ File kurang lengkap? Silakan ditambahkan dengan menuju tautan di bawah ini. Kred
 <br>
 <br>
 <p align="center">
-<script src="//api.find-ip.net/widget.js?height=200&width=680&bg=black&textcol=white&region=0&city=0&language=0&browser=0&system=0&"></script>
-<div class="findiplink">Powered by <a href="http://www.find-ip.net/" target="_blank">Find-IP.net</a></div>
+  <img src"/images/things-that-bounce-thursday-18.gif" />
 </p>
