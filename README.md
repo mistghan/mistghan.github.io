@@ -1,6 +1,3 @@
-<head>
-  <title>O AZA YA KAN</title>
-</head>
 Blog mahasiswa berisi rangkuman materi-materi yang pernah dibagikan selama proses belajar mengajar.
 
 [Tautan unduh materi jurusan campuran](http://bit.ly/nonregstmik2014)
