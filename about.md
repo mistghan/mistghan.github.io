@@ -13,7 +13,7 @@ Untuk tanggal pastinya sih saya sudah tidak ingat lagi, namun perkiraan kalau ti
 <h2>
 Kenapa ikut terjun dalam dunia fansub Indonesia?
 </h2>
-Karena saya suka kartun - anime, dan saya mengamati kalau sebenarnya bahwa banyak remaja-remaja di Indonesia yang juga menyukai anime namun karena sedikit sekali yang tayang secara resmi di Indonesia dan kalaupun ada merupakan anime yang lawas. Berbekal hanya bahasa Inggris tatkala waktu itu, saya nekat karena saya juga ingin ikut membantu agar para penikmat di sini yang tidak mengerti bahasa Jepang maupun bahasa Inggris juga mengerti dan memahami kartun yang mereka tonton.
+Karena saya suka kartun - anime, dan saya mengamati kalau sebenarnya bahwa banyak remaja-remaja di Indonesia yang juga menyukai anime namun karena sedikit sekali yang tayang secara resmi di Indonesia dan kalaupun ada hanya disuguhi anime yang lawas. Berbeda sekali dengan di Jepang yang disuguhi anime musiman, tiap musim selalu ada anime yang baru. Berbekal hanya bahasa Inggris tatkala waktu itu, saya nekat karena saya juga ingin ikut membantu agar para penikmat di sini yang tidak mengerti bahasa Jepang maupun bahasa Inggris juga mengerti dan memahami kartun yang mereka tonton.
 <br>
 <br>
 <h2>
