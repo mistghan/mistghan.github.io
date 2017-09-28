@@ -1,4 +1,6 @@
 Blog mahasiswa berisi rangkuman materi-materi yang pernah dibagikan selama proses belajar mengajar.
+<br>
+File instalasi visual studio 2010 dan delphi 2010 terlalu besar untuk diunggah, jadi silakan kontak langsung dosen atau asisten lab yang bersangkutan untuk meminta file instalasinya.
 
 [Tautan unduh materi jurusan campuran](http://bit.ly/nonregstmik2014)
 
