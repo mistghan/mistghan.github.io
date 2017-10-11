@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Gallery"
-tags: random
+tags: tag3
 ---
 
 ## Gallery
