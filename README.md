@@ -1,4 +1,4 @@
-# Windows 95 Theme for Jekyll
+# O AZA YA KAN
 
 Homepage: [mistghan](https://mistghan.github.io/)
 
