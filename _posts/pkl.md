@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PKL"
-tags: project
+tags: tag2
 ---
 
 ## PKL
