@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Materi Kuliah Campuran"
-tags: materi
+tags: tag1
 ---
 
 ## Materi Kuliah Campuran
