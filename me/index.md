@@ -20,7 +20,7 @@ File kurang lengkap? Silakan ditambahkan dengan menuju menu materi. Kredit akan 
 <br>
 <br>
 <p align="center">
-  <img src="images/things-that-bounce-thursday-18.gif" />
+  <img src="mistghan.github.io/images/things-that-bounce-thursday-18.gif" />
 </p>
 <br>
 <br>
