@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Materi Kuliah TI"
-tags: materi
+tags: tag1
 ---
 
 ## Materi Kuliah TI
