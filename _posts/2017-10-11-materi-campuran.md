@@ -6,4 +6,4 @@ tags: tag1
 
 ## Materi Kuliah Campuran
 
-[Tautan unduh materi jurusan campuran](http://bit.ly/nonregstmik2014)
+[Tautan unduh materi jurusan campuran](http://adf.ly/230788/reqnonregstmik2014)
