@@ -3,7 +3,7 @@ SHRINE FOR LARA CROFT
 </h2>
 <br>
 <p align="center">
-  <img src="https://cdn.edgecast.steamstatic.com/steam/apps/391220/extras/ROTTR_AimGreater_30.jpg" />
+  <img src="http://cdn.edgecast.steamstatic.com/steam/apps/391220/extras/ROTTR_AimGreater_30.jpg" />
   <br>
   <br>
   <img src="../images/lara_croft/595675716_preview_tumblr_nzfm6rPpdJ1twquoto1_500.gif" />
