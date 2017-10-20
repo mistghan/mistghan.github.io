@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Shrine for Lara Croft"
+title: "Lara Croft"
 tags: tag4
 ---
 
