@@ -5,7 +5,7 @@ tags: tag4
 ---
 
 <h2 align="center">
-## SHRINE FOR LARA CROFT
+SHRINE FOR LARA CROFT
 </h2>
 <br>
 <p align="center">
@@ -27,4 +27,5 @@ tags: tag4
 <br>
 <iframe src="https://store.steampowered.com/widget/391220/90034/" frameborder="0" width="646" height="190" align="center"></iframe>
 <br>
-#top
+<br>
+[[Top]](#top)
