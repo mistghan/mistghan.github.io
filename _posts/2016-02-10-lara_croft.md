@@ -16,7 +16,7 @@ SHRINE FOR LARA CROFT
 </p>
 <br>
 <br>
-<iframe src="http://store.steampowered.com/widget/391220/90033/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="http://store.steampowered.com/widget/391220/90033/" frameborder="0" width="646" height="190">&nbsp;</iframe>
 <br>
 <br>
-<iframe src="http://store.steampowered.com/widget/391220/90034/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="http://store.steampowered.com/widget/391220/90034/" frameborder="0" width="646" height="190">&nbsp;</iframe>
