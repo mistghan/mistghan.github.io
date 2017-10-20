@@ -1,5 +1,5 @@
 <h2 align="center">
-SHRINE FOR LARA CROFT
+## SHRINE FOR LARA CROFT
 </h2>
 <br>
 <p align="center">
@@ -16,9 +16,7 @@ SHRINE FOR LARA CROFT
 </p>
 <br>
 <br>
-<p align="center">
-<iframe src="https://store.steampowered.com/widget/391220/90033/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/391220/90033/" frameborder="0" width="646" height="190" align="center"></iframe>
 <br>
 <br>
-<iframe src="https://store.steampowered.com/widget/391220/90034/" frameborder="0" width="646" height="190"></iframe>
-</p>
+<iframe src="https://store.steampowered.com/widget/391220/90034/" frameborder="0" width="646" height="190" align="center"></iframe>
