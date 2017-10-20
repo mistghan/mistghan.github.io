@@ -19,7 +19,6 @@ SHRINE FOR LARA CROFT
   <br>
   <br>
   <img src="../images/lara_croft/595675716_preview_tumblr_nzfm6rPpdJ1twquoto5_500.gif" />
-</p>
 <br>
 <br>
 <iframe src="https://store.steampowered.com/widget/391220/90033/" frameborder="0" width="646" height="190" align="center"></iframe>
@@ -28,4 +27,5 @@ SHRINE FOR LARA CROFT
 <iframe src="https://store.steampowered.com/widget/391220/90034/" frameborder="0" width="646" height="190" align="center"></iframe>
 <br>
 <br>
+</p>
 [[Top]](#top)
