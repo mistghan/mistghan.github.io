@@ -8,9 +8,8 @@ tags: tag1 tag2
 
 coding VB oleh asisten lab.
 
-```Visual Basic
+
 form_login.vb
-```
 
 ```Visual Basic
 Public Class form_login
@@ -31,9 +30,8 @@ Public Class form_login
 End Class
 ```
 
-```Visual Basic
+
 form_utama.vb
-```
 
 ```Visual Basic
 Public Class form_utama
