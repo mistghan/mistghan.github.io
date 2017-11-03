@@ -12,7 +12,7 @@ coding VB oleh asisten lab.
 form_login.vb
 
 ```Visual Basic
-Public Class form_login
+ Public Class form_login
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
         form_utama.Label15.Text = TextBox2.Text
@@ -27,14 +27,14 @@ Public Class form_login
        Close()
 
     End Sub
-End Class
+ End Class
 ```
 
 
 form_utama.vb
 
 ```Visual Basic
-Public Class form_utama
+ Public Class form_utama
 
     Private Sub ComboBox1_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox1.SelectedIndexChanged 
         If ComboBox1.Text = "Mie Goreng" Then
@@ -67,5 +67,5 @@ Public Class form_utama
         Label12.Text = TextBox2.Text * Label11.Text
         Label14.Text = Val(Label10.Text) + Val(Label12.Text)
     End Sub
-End Class
+ End Class
 ```
