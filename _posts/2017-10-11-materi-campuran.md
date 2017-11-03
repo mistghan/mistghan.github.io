@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Materi Kuliah Campuran"
+title: "Materi Campuran"
 tags: tag1
 ---
 
