@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Sistem Terdistribusi"
+title: "SisTer"
 tags: tag1 tag2
 ---
 
-## Tugas I
+## Tugas I Sistem Terdistribusi
 
 coding VB oleh asisten lab.
 
