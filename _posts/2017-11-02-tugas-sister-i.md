@@ -10,6 +10,9 @@ coding VB oleh asisten lab.
 
 ```Visual Basic
 form_login.vb
+```
+
+```Visual Basic
 Public Class form_login
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
@@ -30,6 +33,9 @@ End Class
 
 ```Visual Basic
 form_utama.vb
+```
+
+```Visual Basic
 Public Class form_utama
 
     Private Sub ComboBox1_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox1.SelectedIndexChanged 
