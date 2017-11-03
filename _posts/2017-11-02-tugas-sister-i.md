@@ -4,13 +4,13 @@ title: "Sistem Terdistribusi"
 tags: tag1 tag2
 ---
 
-## Tugas 
+## Tugas I
 
-coding VB oleh asisten lab. :shipit:
+coding VB oleh asisten lab.
 
 <details>
-<summary>form_login.vb </summary>
-```
+<summary>form_login.vb </summary><p>
+---
 Public Class form_login
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
@@ -26,12 +26,12 @@ Public Class form_login
         Close()
     End Sub
 End Class
-```
-</details>
+---
+</p></details>
 
 <details>
-<summary>form_utama.vb </summary>
-```
+<summary>form_utama.vb </summary><p>
+---
 Public Class form_utama
 
     Private Sub ComboBox1_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ComboBox1.SelectedIndexChanged
@@ -66,5 +66,5 @@ Public Class form_utama
         Label14.Text = Val(Label10.Text) + Val(Label12.Text)
     End Sub
 End Class
-```
-</details>
+---
+</p></details>
